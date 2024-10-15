@@ -1,4 +1,6 @@
 ## Faris BELMAHDI
+Étudiant en développement Informatique
+
 
 <!--
 **fifo700/fifo700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
